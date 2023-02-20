@@ -10,3 +10,9 @@ Desafio do curso Dev Full Cycle para criar um container a partir de uma imagem c
 ```
 docker run linquera/fullcycle-docker-go
 ```
+
+## :whale: Imagem Link
+
+ ```
+ https://hub.docker.com/repository/docker/linquera/fullcycle-docker-go/general
+ ```
